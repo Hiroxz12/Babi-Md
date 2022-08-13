@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = JSON.parse(fs.readFileSync('.6285732267014')) // Put your number to /src/owner.json
+global.owner = JSON.parse(fs.readFileSync('6285732267014')) // Put your number to /src/owner.json
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 global.thumbt = global.img
 global.fsx = 999999999999
