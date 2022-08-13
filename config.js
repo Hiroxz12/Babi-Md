@@ -1,11 +1,11 @@
 let fs = require('fs')
 global.owner = JSON.parse(fs.readFileSync('6285732267014')) // Put your number to /src/owner.json
-global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
+global.mods = JSON.parse(fs.readFileSync('6285732267014')) // Want some help?
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
 ['6285732267014', 'Creator/Owner', true],
-['6285732267014', 'TioXd ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6285732267014', 'Pujiyzganz ⁴⁰⁴-ﾉ [BOT MD]', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
