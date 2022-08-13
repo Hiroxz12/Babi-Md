@@ -1,11 +1,11 @@
 let fs = require('fs')
-global.owner = JSON.parse(fs.readFileSync('./src/owner.json')) // Put your number to /src/owner.json
+global.owner = JSON.parse(fs.readFileSync('.6285732267014')) // Put your number to /src/owner.json
 global.mods = JSON.parse(fs.readFileSync('./src/moderator.json')) // Want some help?
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['6282221792667', 'Creator/Owner', true],
-['6282221792667', 'TioXd ⁴⁰⁴-ﾉ [BOT MD]', true]
+['6285732267014', 'Creator/Owner', true],
+['6285732267014', 'TioXd ⁴⁰⁴-ﾉ [BOT MD]', true]
 ]
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -34,7 +34,7 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.WM = '© TioXd'
+global.WM = '© Hiroxz'
 global.linkgc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.linkig = 'https://www.instagram.com/prm2.0'
 global.deslink = ''
